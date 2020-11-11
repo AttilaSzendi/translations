@@ -1,0 +1,462 @@
+{
+    "activity": {
+        "create": "Tevékenység létrehozása",
+        "edit": "Tevékenység szerkesztése",
+        "index-title": "Tevékenységek"
+    },
+    "analysis": {
+        "select-graph": "Grafikon kiválasztása",
+        "title": "Elemzések"
+    },
+    "app": {
+        "all": "Mind",
+        "are-you-sure": "Biztosan folytatni szeretné a műveletet?",
+        "loading": "Töltés",
+        "no": "Nem",
+        "no-result": "Nincs találat",
+        "no-results-found": "Nincs találat",
+        "order": "Rendezés",
+        "please-choose": "Kérem válasszon!",
+        "related-documents": "Kapcsolódó dokumentumok",
+        "system-message": "Rendszerüzenet",
+        "total": "Találatok száma",
+        "yes": "Igen"
+    },
+    "attributes": {
+        "activity": "Tevékenység",
+        "address": {
+            "address": "Közterület neve",
+            "address-type": "Jellege",
+            "building": "Épület",
+            "city": "Település",
+            "door": "Ajtó",
+            "floor": "Emelet",
+            "number": "Házszám",
+            "same-as-billing": "Megegyezik a számlázási címmel",
+            "same-as-company": "Megegyezik a székhely címével",
+            "stairway": "Lépcsőház",
+            "zip": "Irányítószám"
+        },
+        "browse-file": "File csatolása",
+        "buyer": "Vevő",
+        "closing-time": "Záró időpont",
+        "code": "Országkód",
+        "company-address": "cím",
+        "company-group": "Cégcsoport",
+        "company-name": "Cégnév",
+        "contact": "Kapcsolattartó",
+        "country": "Ország",
+        "created-at": "Létrehozás dátuma",
+        "currency": "Valuta",
+        "date": "Dátum",
+        "date-range": "Időszak",
+        "department": "Részleg",
+        "document-category": "Dokumentum kategóriája",
+        "document-title": "Dokumentum neve",
+        "email": "E-mail cím",
+        "ending-time": "Záró időpont",
+        "first-name": "Keresztnév",
+        "gross": "Bruttó",
+        "id-number": "Azonosító szám",
+        "id-string": "Azonosító szám",
+        "identifier": "Azonosító",
+        "is-result-required": "Válogatási eredmény szükséges",
+        "job": "Munkakör",
+        "language": "Alapnyelv",
+        "last-name": "Vezetéknév",
+        "memo-description": "Teendő leírása",
+        "memo-user": "Teendő felelőse",
+        "memo-users": "Érintett felhasználók",
+        "multiplier": "Szorzó",
+        "name": "Név",
+        "net": "Nettó",
+        "nok-percent": "NOK %",
+        "nok-quantity": "NOK db",
+        "offer-title": "Ajánlat címe",
+        "operator": "Operátor",
+        "password": "Jelszó",
+        "password-again": "Jelszó újra",
+        "phone": "Telefon",
+        "phone-prefix": "Országhívószám",
+        "product-number": "Cikkszám",
+        "product": {
+            "name": "Terméknév",
+            "number": "Cikkszám",
+            "product": "Termék",
+            "quantity": "Óraszám/db",
+            "serial": "Sorszám",
+            "unit-price": "Egységár",
+            "vat": "Adó"
+        },
+        "project-error": {
+            "name": "Hibakép címe"
+        },
+        "project": {
+            "name": "Projekt neve",
+            "number": "Projekt száma",
+            "status": "Projekt státusza",
+            "type": "Projekt típusa",
+            "unit-price": "Egységár"
+        },
+        "quantity": "Válogatott darabszám",
+        "registration-number": "Cégjegyzék szám",
+        "reject-text": "Visszautasítás oka",
+        "role": "Szerepkör",
+        "service": {
+            "hourly-rate": "Óradíj",
+            "name": "Szolgáltatás neve",
+            "number": "Szolgáltatás száma",
+            "vat": "Adó"
+        },
+        "shift-length": "Műszak hossza",
+        "shift-number": "Műszak száma",
+        "starting-time": "Kezdeti időpont",
+        "status": "Státusz",
+        "subcontractor-name": "Alvállalkozó neve",
+        "subject": "Tárgy",
+        "task": "Feladat",
+        "tax-number": "Adószám",
+        "tax-number-eu": "EU adószám",
+        "tax-type": "Adó típus",
+        "technology": "Technológia",
+        "total": "Összesen",
+        "total-hours": "Összes óra",
+        "type": "Típus",
+        "update-date": "Feltöltés dátuma",
+        "update-name": "Feltöltő neve",
+        "updated": "Feltöltve",
+        "user-name": "Felhasználó neve",
+        "venue": "Helyszín",
+        "week": "hét",
+        "work-type": "Munka típus",
+        "worker-name": "Dolgozó neve",
+        "worker": {
+            "number": "Azonosító szám",
+            "subcontractor-name": "Alvállalkozó neve",
+            "type": "Típus"
+        }
+    },
+    "button": {
+        "activate": "Felhasználó aktiválása",
+        "add-user": "Új felhasználó hozzáadása",
+        "approve": "Elfogadás",
+        "back": "Vissza",
+        "browse": "Tallozás",
+        "cancel": "Mégse",
+        "close": "Lezárás",
+        "create": "Létrehozás",
+        "create-document": "Új dokumentum feltöltése",
+        "data-page": "Adatlap",
+        "delete": "Törlés",
+        "detail-page": "Adatlap",
+        "details": "Részletek",
+        "download": "Letöltés",
+        "edit": "Szerkeszt",
+        "edit-data": "Adatok szerkesztése",
+        "export": "Exportálás",
+        "forgot-password": "Jelszóemlékeztető?",
+        "inactivate": "Felhasználó inaktiválása",
+        "login": "Bejelentkezés",
+        "many-import": "Csoportos adatfelvitel",
+        "modify": "Módosítás",
+        "new-line": "Új adatsor felvitele",
+        "pdf-generate": "PDF generálása",
+        "products-pdf-generate": "PDF generálása (termékek)",
+        "register": "Regisztrálás",
+        "reject": "Visszautasítás",
+        "save": "Mentés",
+        "save-data": "Adatok mentése",
+        "send": "Küldes",
+        "send-email": "Jelszóemlékeztető küldése",
+        "services-pdf-generate": "PDF generálása (szolgáltatások)",
+        "set": "Beállít",
+        "time-management": "Időnyilvántartás megtekintése",
+        "update": "Feltöltés",
+        "view": "Megtekintés"
+    },
+    "company-group": {
+        "create": "Cégcsoportok létrehozása",
+        "edit": "Cégcsoportok szerkesztése",
+        "index-title": "Cégcsoportok"
+    },
+    "company": {
+        "activate-contact": "Kapcsolattartó aktiválása",
+        "active-contacts": "Kapcsolattartók",
+        "billing-address": "Számlázási cím",
+        "company-address": "Cég székhelye",
+        "create": "Cég létrehozása",
+        "create-button": "Új cég létrehozása",
+        "import-title": "Cég importálása XLS",
+        "inactivate-contact": "Kapcsolattartó inaktiválása",
+        "inactive-contacts": "Inaktív kapcsolattartók",
+        "index-title": "Cégek",
+        "mailing-address": "Levelezési cím",
+        "new-contact": "Új kapcsolattartó hozzáadása",
+        "remove-contact": "Kapcsolattartó eltávolítása"
+    },
+    "completion": {
+        "create": "Új igazolás létrehozása",
+        "index-title": "Teljesítési igazolás"
+    },
+    "country": {
+        "create": "Ország létrehozása",
+        "edit": "Ország szerkesztése",
+        "index-title": "Országok"
+    },
+    "dashboard": {
+        "companies": "Legutóbbi cégek",
+        "more": "Tovább a teljes listához",
+        "projects": "Legutóbbi projektek",
+        "sorting": "Legutóbbi válogatási eredmények",
+        "users": "Legutóbbi felhasználók"
+    },
+    "department": {
+        "create": "Részleg létrehozása",
+        "edit": "Részleg szerkesztése",
+        "index-title": "Részlegek"
+    },
+    "document-category": {
+        "create": "Dokumentum létrehozása",
+        "edit": "Dokumentum szerkesztése",
+        "index-title": "Dokumentum Kategóriák"
+    },
+    "document": {
+        "create-title": "Dokumentum létrehozása",
+        "index-title": "Dokumentumok"
+    },
+    "errors": {
+        "common": {
+            "e401": "A keresett odlalhoz nincs meg a megfelelő jogosultságod!",
+            "e403": "A keresett odlalhoz nincs meg a megfelelő jogosultságod!",
+            "e404": "A keresett odlal nem található!",
+            "e500": "Belső szerverhiba történt (Backend)!",
+            "message": "Valami hiba történt az oldal működése közben!",
+            "no-file": "A keresett fájl nem található!",
+            "title": "Hoppá!"
+        }
+    },
+    "job": {
+        "create": "Munkakör létrehozása",
+        "edit": "Munkakör szerkesztése",
+        "index-title": "Munkakörök"
+    },
+    "list": {
+        "create": "Új elem hozzáadása",
+        "title": "Listák"
+    },
+    "log": {
+        "index-title": "Logok"
+    },
+    "login": {
+        "back-to-login": "Vissza a bejelentkezéshez",
+        "forgot-text-1": "Kérjük, adja meg a regisztrációkor használt e-mail címét!",
+        "forgot-text-2": "Ezt követően küldünk egy linket, melyre kattintva megadhatja új jelszavát.",
+        "forgot-title": "Jelszóemlékeztető",
+        "reset-text-1": "Jelszó visszaállításához adja meg új jelszavát.",
+        "reset-title": "Jelszó frissítése",
+        "send": "Elküldöm",
+        "welcome-sub-text": "Kérjük lépjen be e-mail címével és jelszavával!",
+        "welcome-text": "Üdvözöljük az adminisztrációs felületen!"
+    },
+    "memo": {
+        "add-comment": "Hozzászólás hozzáadása",
+        "closed": "Lezárva",
+        "comment": "Hozzászólás",
+        "created-by": "Létrehozta",
+        "deadline": "Határidő",
+        "download-list": "Feltöltési lista",
+        "downloaded-list": "Feltöltött dokumentumok",
+        "edit-title": "Teendő szerkesztése",
+        "histories": "Előzmények",
+        "last-comment": "Legutolsó komment",
+        "new-button": "Új teendő hozzáadása",
+        "new-title": "Új teendő létrehozása"
+    },
+    "nav": {
+        "activities": "Tevékenységek",
+        "analysis": "Elemzések",
+        "companies": "Cégek",
+        "company-groups": "Cégcsoport",
+        "completion-certificate": "Teljesítési igazolás",
+        "countries": "Országok",
+        "departments": "Részlegek",
+        "document-categories": "Dokumentum Kategóriák",
+        "documents": "Dokumentumok",
+        "jobs": "Munkakörök",
+        "lists": "Listák",
+        "logs": "Logok",
+        "projects": "Projektek",
+        "sorting-results": "Válogatási eredmények",
+        "system-messages": "Rendszerüzenetek",
+        "tasks": "Feladatok",
+        "tax-types": "Adó típusok",
+        "technologies": "Technológiák",
+        "time-management": "Időnyilvántartás",
+        "translations": "Fordítások",
+        "users": "Felhasználók",
+        "work-types": "Munka típusok",
+        "workers": "Dolgozók"
+    },
+    "offer": {
+        "create-title": "Ajánlat létrehozása",
+        "edit-title": "Ajánlat szerkesztése",
+        "new-offer": "Új ajánlat feltöltése"
+    },
+    "order": {
+        "date-asc": "Létrehozás dátuma (növekvő)",
+        "date-desc": "Létrehozás dátuma (csökkenő)",
+        "name-asc": "Név szerint (növekvő)",
+        "name-desc": "Név szerint (csökkenő)"
+    },
+    "permission": {
+        "name": "Jogosultság neve",
+        "permission": "Jogosultság"
+    },
+    "permissions": {
+        "create": "létrehozás",
+        "delete": "törlés",
+        "read": "olvasás",
+        "update": "szerkesztés"
+    },
+    "placeholder": {
+        "choose-file": "Válassza ki a feltöltendő file-t",
+        "company": "Cég",
+        "document-category": "Dokumentum kategória",
+        "filter": "Szűrés",
+        "job": "Munkakör",
+        "project": "Project",
+        "project-service": "Szolgáltatás",
+        "project-status": "Projekt státusz",
+        "project-type": "Projekt típus",
+        "role": "Szerepkör",
+        "search": "Keresés",
+        "select-company": "Cég kiválasztása",
+        "select-document-category": "Dokumentum kategória kiválasztása",
+        "select-job": "Munkakör kiválasztása",
+        "select-project": "Projekt kiválasztása",
+        "select-project-service": "Szolgáltatás kiválasztása",
+        "select-project-status": "Státusz kiválasztása",
+        "select-project-type": "Típus kiválasztása",
+        "select-role": "Szerepkör kiválasztása",
+        "select-task": "Feladat kiválasztása",
+        "select-work-type": "Munka típusának kiválasztása",
+        "task": "Feladat",
+        "user": "Felhasználó kiválasztása",
+        "user-status": "Felhasználó státusza",
+        "work-type": "Munka típusa",
+        "worker-work-type": "Munkaviszony típusa"
+    },
+    "product": {
+        "edit": "Termék szerkesztése",
+        "index-title": "Termékek",
+        "new": "Új termék"
+    },
+    "project-error": {
+        "edit-title": "Hibakép szerkesztése",
+        "title": "Hibakép"
+    },
+    "project": {
+        "add-product": "Termékek hozzáadása",
+        "add-product-one": "Termék hozzáadása",
+        "add-product-title": "Termékek hozzáadása",
+        "add-service": "Szolgáltatások hozzáadása",
+        "add-service-one": "Szolgáltatás hozzáadása",
+        "add-service-title": "Szolgáltatások hozzáadása",
+        "add-user": "Felhasználó hozzáadása",
+        "buyer-data": "Vevői adatok",
+        "create": "Új projekt létrehozása",
+        "data": "Projekt adatai",
+        "details": "Alapadatok",
+        "edit-company": "Vevői adatok módosítása",
+        "edit-permission": "Jogosultságok szerkesztése",
+        "index-title": "Projektek",
+        "memo": "Teendők",
+        "new-error": "Hibakép hozzáadása",
+        "new-error-title": "Hibakép hozzáadása",
+        "offers": "Ajánlatok",
+        "permission-title": "Jogosultság beállítása",
+        "products": "Termékek listája",
+        "project-errors": "Hibaképek listája",
+        "reject-description": "Kötelező pár mondatban megfogalmaznia a visszautasítás okát! Kérem ezt most tegye meg.",
+        "reject-modal-title": "Ajánlat visszautasítása",
+        "related-documents": "Kapcsolódó dokumentumok",
+        "remove-user": "Felhasználó törlése",
+        "services": "Szolgáltatások",
+        "users": "Felhasználók"
+    },
+    "register": {
+        "title": "Regisztrálás"
+    },
+    "service": {
+        "edit": "Szolgáltatás szerkesztése",
+        "index-title": "Szolgáltatások",
+        "new": "Szolgáltatás létrehozása"
+    },
+    "sorting-result": {
+        "create-title": "Válogatási eredmény hozzáadása",
+        "edit-title": "Válogatási eredmény szerkesztése",
+        "import-title": "Tömeges adatfelvitel"
+    },
+    "sorting-results": {
+        "title": "Válogatási eredmények"
+    },
+    "system-message": {
+        "edit-title": "Rendszerüzenet szerkesztése",
+        "index-title": "Rendszerüzenetek"
+    },
+    "task": {
+        "create": "Feladat létrehozása",
+        "edit": "Feladat szerkesztése",
+        "index-title": "Feladatok"
+    },
+    "tax-type": {
+        "create": "Adó típus létrehozása",
+        "edit": "Adó típus szerkesztése",
+        "index-title": "Adó típusok"
+    },
+    "technology": {
+        "create": "Technológia létrehozása",
+        "edit": "Technológia szerkesztése",
+        "index-title": "Technológiák"
+    },
+    "time-management": {
+        "edit": "Időnyilvántartás szerkesztése",
+        "export": "excel táblázat exportálása",
+        "group-data": "Csoportos adatfelvitel",
+        "index-title": "Időnyilvántartás",
+        "new": "Új sor hozzáadása",
+        "parameter-list": "Paraméterek szerinti listázás"
+    },
+    "translation": {
+        "choose-language": "Válasszon nyelvet",
+        "groups-title": "Csoportok",
+        "index-title": "Fordítások",
+        "language": "Nyelv"
+    },
+    "uploader": {
+        "base-drop-zone": "Húzd, és dobd",
+        "progress": "Haladás",
+        "single": "Egy fájl feltöltése"
+    },
+    "user": {
+        "active": "Aktív",
+        "create": "Új felhasználó létrehozása",
+        "edit": "Felhasználó szerkesztése",
+        "inactive": "Inaktív",
+        "index-title": "Felhasználók",
+        "mail-tooltip": "Ezt követően küldünk egy linket, melyre kattintva megadhatja új jelszavát.",
+        "projects-title": "Projektek"
+    },
+    "work-type": {
+        "create": "Munka típus létrehozása",
+        "edit": "Munka típus szerkesztése",
+        "index-title": "Munka típusok"
+    },
+    "worker": {
+        "create": "Új dolgozó létrehozása",
+        "import-title": "Dolgozók importálása (XLS)",
+        "index-title": "Dolgozók",
+        "not-subcontractor": "Saját alkalmazású",
+        "subcontractor": "Alvállalkozó"
+    }
+}
